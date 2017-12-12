@@ -1,0 +1,2 @@
+# JSMM
+JavaSript Monero Miner
